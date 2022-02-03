@@ -1,6 +1,0 @@
-[submodule "client"]
-	path = client
-	url = https://github.com/alfiegh/finerVisionTest
-[submodule "clientgit"]
-	path = clientgit
-	url = https://github.com/alfiegh/finerVisionTest
